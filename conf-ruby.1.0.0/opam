@@ -20,5 +20,6 @@ depexts: [
   [["nixpkgs"] ["ruby"]]
   [["openbsd"] ["ruby"]]
   [["opensuse"] ["ruby"]]
+  [["oraclelinux"] ["ruby"]]
   [["ubuntu"] ["ruby"]]
 ]
