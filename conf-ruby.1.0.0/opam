@@ -13,7 +13,7 @@ depexts: [
   [["archlinux"] ["ruby"]]
   [["centos"] ["ruby"]]
   [["debian"] ["ruby"]]
-  [["federa"] ["ruby"]]
+  [["fedora"] ["ruby"]]
   [["gentoo"] ["dev-lang/ruby"]]
   [["homebrew" "osx"] ["ruby"]]
   [["netbsd"] ["ruby"]]
